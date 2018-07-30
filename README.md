@@ -1,5 +1,5 @@
-# Fake_Advertisement_Identification
-Identify Fake Advertisement
+#  Predict whether or not they will click on an ad based off the features of that user.
+
 // LOGISTIC REGRESSION PROJECT SOLUTIONS ////
 ////////////////////////////////////////////
 
